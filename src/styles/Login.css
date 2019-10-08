@@ -1,0 +1,44 @@
+#Login {
+    min-width: 275px;
+    text-align: center;
+    margin: 200px auto;
+    width: 50%;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    width: 65%;
+}
+
+.button {
+    margin: 20px 0;
+    justify-content: center;
+    height: 40px;
+    width: 110px;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 60px;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.register-link {
+    font-weight: 300;
+    float: right;
+}
+
+a {
+    color: black;
+}
+
+p:hover {
+    text-decoration: underline;
+}
